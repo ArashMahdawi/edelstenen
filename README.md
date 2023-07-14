@@ -10,7 +10,7 @@ Dit project is een edelstenen armbanden webshop. Het is ontwikkeld als onderdeel
 
 ## Online Locatie:
 
-Je kunt het project online bekijken op www.arashmahdawi.nl.
+Je kunt het project online bekijken op https://coruscating-praline-a429b2.netlify.app/
 
 ## Lokaal Uitvoeren:
 
